@@ -1,5 +1,4 @@
-## WELCOME!/ДОБРО ПОЖАЛОВАТЬ!
-##text-align:center;
+## ✨ WELCOME!/ДОБРО ПОЖАЛОВАТЬ! ✨ 
 <!--
 **STT3911/STT3911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

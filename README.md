@@ -1,7 +1,10 @@
 ## ✨ WELCOME!/ДОБРО ПОЖАЛОВАТЬ! ✨ 
-<!--
-**STT3911/STT3911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <h1>
+## img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ2ang1b3VlYWRodm5wNjV4NmcxaTA0bXIwN3A1YmdraTlvdXFrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif"
+## </h1>
+<!--**STT3911/STT3911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

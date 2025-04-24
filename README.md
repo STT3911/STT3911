@@ -1,4 +1,4 @@
- ## ✨ WELCOME!/ДОБРО ПОЖАЛОВАТЬ! ✨ 
+ ## <p style="text-align: center;">✨ WELCOME!/ДОБРО ПОЖАЛОВАТЬ! ✨ </p>
 ## <h1>
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ2ang1b3VlYWRodm5wNjV4NmcxaTA0bXIwN3A1YmdraTlvdXFrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
 ## </h1>
